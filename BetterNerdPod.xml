@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/"> 
+
+<channel> 
+
+
+<title>A Better Nerd is Possible: Art, Design, Health and Democracy</title> 
+
+<link>https://github.com/BetterNerdPod/podcast-player</link> 
+
+<language>en-us</language> 
+
+<itunes:author>Alice Jaggers and Avery Barrett</itunes:author> 
+
+
+<description>Come hang out in our clubhouse! Alice and Avery have started a SUPER SECRET book club. Every month, we meet with a mission: explore art, design, health and democracy to find ways nerds can make the world a better place.</description> 
+
+<itunes:summary>Come hang out in our clubhouse! Alice and Avery have started a SUPER SECRET book club. Every month, we meet with a mission: explore art, design, health and democracy to find ways nerds can make the world a better place.</itunes:summary>
+
+<itunes:type>episodic</itunes:type> 
+
+<itunes:image href="https://raw.githubusercontent.com/BetterNerdPod/podcast-player/refs/heads/main/TreehouseHatchLogo.png"/> 
+
+<itunes:category text="Arts"> <itunes:category text="Books" /></itunes:category><itunes:category text="Leisure"> <itunes:category text="Games" /></itunes:category>
+
+<itunes:explicit>false</itunes:explicit>
+
+<itunes:owner>
+
+<itunes:name>Alice Jaggers and Avery Barrett</itunes:name>
+<itunes:email>betternerdpod@proton.me</itunes:email>
+
+</itunes:owner>
+
+<copyright>A Better Nerd is Possible © 2026 by Alice Jaggers and Avery Barrett is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/</copyright>
+
+
+
+
+
+
+<item>
+<itunes:episodeType>trailer</itunes:episodeType>
+      <itunes:title>Nerds? It's Possible</itunes:title>
+<description>
+
+Alice and Avery try to explain why you're suddenly in their clubhouse and there's a book in your hands.
+
+</description>
+
+<itunes:summary>
+
+Alice and Avery try to explain why you're suddenly in their clubhouse and there's a book in your hands.
+
+</itunes:summary>
+
+      <enclosure 
+        length="1576959" 
+        type="audio/mpeg" 
+        url="https://github.com/BetterNerdPod/podcast-player/raw/refs/heads/main/BetterNerdTrailer.mp3"
+      />
+         <guid>https://github.com/BetterNerdPod/podcast-player/raw/refs/heads/main/BetterNerdTrailer.mp3</guid>
+<pubDate>Thu, 30 Jul 2026 20:00:00 PDT</pubDate>
+         <itunes:explicit>false</itunes:explicit>
+
+<itunes:duration>98</itunes:duration>
+
+
+</item>
+
+
+
+
+
+</channel>
+</rss>
